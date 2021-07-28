@@ -1,20 +1,29 @@
 # [WhiteMind 1st assignment]
 
 ### Requirement
+
 - Implement the user's comment data list with infinite scrolling by getting more 10 comments repeatedly.
 
+### Implementation Period
+
+- 2021.07.27 ~ 2021.07.28
 
 ### Tech Stack I've used in this project
+
 - React
 - Axios
+
 ### Design Tool I've used
+
 - Figma
 
 ### Implementation List
+
 - Infinite Scroll
 - Card
 
 ### Library that I've used
+
 - Axios
 - React-infinite-scroller
 
