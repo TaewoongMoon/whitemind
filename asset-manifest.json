@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/whitemind/static/css/main.91ab79e4.chunk.css",
+    "main.js": "/whitemind/static/js/main.32fa94bd.chunk.js",
+    "main.js.map": "/whitemind/static/js/main.32fa94bd.chunk.js.map",
+    "runtime-main.js": "/whitemind/static/js/runtime-main.f439407c.js",
+    "runtime-main.js.map": "/whitemind/static/js/runtime-main.f439407c.js.map",
+    "static/js/2.49a3bf3d.chunk.js": "/whitemind/static/js/2.49a3bf3d.chunk.js",
+    "static/js/2.49a3bf3d.chunk.js.map": "/whitemind/static/js/2.49a3bf3d.chunk.js.map",
+    "static/js/3.5fd84066.chunk.js": "/whitemind/static/js/3.5fd84066.chunk.js",
+    "static/js/3.5fd84066.chunk.js.map": "/whitemind/static/js/3.5fd84066.chunk.js.map",
+    "index.html": "/whitemind/index.html",
+    "static/css/main.91ab79e4.chunk.css.map": "/whitemind/static/css/main.91ab79e4.chunk.css.map",
+    "static/js/2.49a3bf3d.chunk.js.LICENSE.txt": "/whitemind/static/js/2.49a3bf3d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f439407c.js",
+    "static/js/2.49a3bf3d.chunk.js",
+    "static/css/main.91ab79e4.chunk.css",
+    "static/js/main.32fa94bd.chunk.js"
+  ]
+}
