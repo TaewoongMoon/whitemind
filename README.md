@@ -1,5 +1,9 @@
 # [WhiteMind 1st assignment]
 
+### Website
+
+- https://taewoongmoon.github.io/whitemind/
+
 ### Requirement
 
 - Implement the user's comment data list with infinite scrolling by getting more 10 comments repeatedly.
