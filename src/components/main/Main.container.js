@@ -5,7 +5,6 @@ import MainUI from './Main.presenter'
 const MainPage = () => {
   const [items, setItems] = useState([])
   const [totalItems, setTotalitems] = useState([])
-  const [value, setValue] = useState(true)
   useEffect(() => {
     async function getTotal() {
       await axios

@@ -40,7 +40,6 @@ const MainUI = (props) => {
   //     .then((res) => setItems([...items, ...res.data]))
   //     .catch((err) => console.log(err))
   // }
-
   return (
     <Wrapper>
       <InfiniteScroll
